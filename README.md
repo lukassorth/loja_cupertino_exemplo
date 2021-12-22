@@ -1,4 +1,4 @@
-# k1_app
+# Cupertino App Loja Exemplo
 
 A new Flutter project.
 
